@@ -1,0 +1,18 @@
+**/all_predictions.pkl
+# Large evaluation artifacts
+**/all_predictions.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Logs / outputs
+logs/
+outputs/
