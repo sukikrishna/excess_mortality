@@ -1,0 +1,134 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	5904	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	5426	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	6005	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	5766	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	5946	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	5981	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	6104	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	5991	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	5670	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	5709	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	5416	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	5793	Not Applicable	Not Applicable
+"Total"	"2018"	"2018"			69711	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	5750	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	5399	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	6123	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	5730	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	6015	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	5989	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	6333	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	6388	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	6048	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	6322	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	6405	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	6523	Not Applicable	Not Applicable
+"Total"	"2019"	"2019"			73025	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	6732	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	6587	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	7438	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	8138	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	9609	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	8378	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	8692	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	8436	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	7657	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	7537	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	7498	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	7861	Not Applicable	Not Applicable
+"Total"	"2020"	"2020"			94563	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	9066	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	7946	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	9528	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	9644	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	9504	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	9207	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	9545	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	9546	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	9125	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	8929	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	8474	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	8812	Not Applicable	Not Applicable
+"Total"	"2021"	"2021"			109326	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	9266	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	8713	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	9427	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	8786	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	9042	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	9072	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	9679	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	9325	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	8977	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	9245	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	9026	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	9733	Not Applicable	Not Applicable
+"Total"	"2022"	"2022"			110291	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Jan., 2023 "	"2023/01"	9485	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Feb., 2023 "	"2023/02"	8634	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Mar., 2023 "	"2023/03"	9721	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Apr., 2023 "	"2023/04"	9417	Not Applicable	Not Applicable
+	"2023 "	"2023"	"May, 2023 "	"2023/05"	9674	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Jun., 2023 "	"2023/06"	9064	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Jul., 2023 "	"2023/07"	9551	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Aug., 2023 "	"2023/08"	9350	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Sep., 2023 "	"2023/09"	8211	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Oct., 2023 "	"2023/10"	8199	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Nov., 2023 "	"2023/11"	7798	Not Applicable	Not Applicable
+	"2023 "	"2023"	"Dec., 2023 "	"2023/12"	8030	Not Applicable	Not Applicable
+"Total"	"2023 "	"2023"			107134	Not Applicable	Not Applicable
+"Total"					564050	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"Title: Test_Data_2018_2023"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X45 (Accidental"
+"poisoning by and exposure to alcohol); X60 (Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and"
+"antirheumatics); X61 (Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and"
+"psychotropic drugs, not elsewhere classified); X62 (Intentional self-poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified); X63 (Intentional self-poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system); X64 (Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances); X65 (Intentional self-poisoning by and exposure to alcohol); X85 (Assault by drugs, medicaments and"
+"biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined"
+"intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens],"
+"not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the autonomic nervous"
+"system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and biological"
+"substances, undetermined intent); Y15 (Poisoning by and exposure to alcohol, undetermined intent)"
+"Group By: Year; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Jul 24, 2025 2:58:42 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Jul 24, 2025 2:58:42 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Education, Industry, Usual Occupation,"
+"Weekday or Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#NotApplicableRates."
+"2. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"3. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."

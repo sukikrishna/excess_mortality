@@ -1,0 +1,44 @@
+File_Type,File_Name,Description
+CSV,horizon_data_seq2seq_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,horizon_data_lstm_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+CSV,horizon_data_tcn_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
+CSV,horizon_comprehensive_metrics.csv,Comprehensive metrics across horizons
+CSV,horizon_data_lstm_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,horizon_data_transformer_vs_sarima_2020.csv,Raw plotting data for custom analysis
+CSV,horizon_data_lstm_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
+CSV,horizon_data_transformer_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+CSV,horizon_data_transformer_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
+CSV,horizon_data_tcn_vs_sarima_2020.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_attn_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+CSV,horizon_data_transformer_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_attn_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_vs_sarima_2020.csv,Raw plotting data for custom analysis
+CSV,horizon_comparison_summary.csv,Comparison summary statistics
+CSV,horizon_data_tcn_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,horizon_data_lstm_vs_sarima_2020.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_attn_vs_sarima_2020.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_attn_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
+CSV,horizon_data_tcn_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+CSV,horizon_data_seq2seq_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+Plot,enhanced_sarima_vs_seq2seq_horizon_2020-2021.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_attn_horizon_2020-2021.png,Enhanced visualization
+Plot,enhanced_sarima_vs_tcn_horizon_2020-2022.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_attn_horizon_2020-2023.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_horizon_2020.png,Enhanced visualization
+Plot,enhanced_sarima_vs_transformer_horizon_2020-2022.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_attn_horizon_2020-2022.png,Enhanced visualization
+Plot,enhanced_sarima_vs_lstm_horizon_2020-2021.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_horizon_2020-2023.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_horizon_2020-2022.png,Enhanced visualization
+Plot,enhanced_sarima_vs_transformer_horizon_2020-2023.png,Enhanced visualization
+Plot,enhanced_sarima_vs_tcn_horizon_2020-2023.png,Enhanced visualization
+Plot,enhanced_sarima_vs_tcn_horizon_2020.png,Enhanced visualization
+Plot,enhanced_sarima_vs_lstm_horizon_2020.png,Enhanced visualization
+Plot,enhanced_sarima_vs_transformer_horizon_2020.png,Enhanced visualization
+Plot,horizon_performance_overview.png,Enhanced visualization
+Plot,enhanced_sarima_vs_tcn_horizon_2020-2021.png,Enhanced visualization
+Plot,enhanced_sarima_vs_transformer_horizon_2020-2021.png,Enhanced visualization
+Plot,enhanced_sarima_vs_lstm_horizon_2020-2023.png,Enhanced visualization
+Plot,enhanced_sarima_vs_lstm_horizon_2020-2022.png,Enhanced visualization
+Plot,enhanced_sarima_vs_seq2seq_attn_horizon_2020.png,Enhanced visualization
